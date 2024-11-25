@@ -31,5 +31,5 @@ steps:
   inputs:
     testSelector: 'testAssemblies'
     testAssemblyVer2: 'seleniumTesting.dll'
-    searchFolder: '$(System.DefaultWorkingDirectory)/seleniumTesting/bin/Debug/net6.0'
+    searchFolder: '$(System.DefaultWorkingDirectory)/seleniumTesting/bin/Debug/net8.0'
 
