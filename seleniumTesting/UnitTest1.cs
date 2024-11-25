@@ -44,7 +44,7 @@ namespace SeleniumBingTests
     [TestInitialize()]
     public void SetupTest()
     {
-      appURL = "http://www.google.com/";
+      appURL = "http://www.google.com";
 
       string browser = "Chrome";
       switch(browser)
